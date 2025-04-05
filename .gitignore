@@ -141,3 +141,4 @@ GitHub.sublime-settings
 sgh\core\__pycache__
 sgh\core\migrations
 sgh\sgh\__pycache__
+sgh\db.sqlite3\
